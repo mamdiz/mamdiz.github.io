@@ -4,11 +4,12 @@
   <url>
     <loc>https://mehdex.ir/</loc>
     <lastmod>2026-11-10</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://mehdex.ir/medi-fallahi.jpg</image:loc>
-      <image:title>Medi Fallahi - Data Scientist and BI Specialist</image:title>
-      <image:caption>Medi Fallahi Portfolio and Profile Picture</image:caption>
+      <image:loc>https://mehdex.ir/mehdi-m-fallahi.jpg</image:loc>
+      <image:title>Mehdi M. Fallahi - Data Scientist and BI Specialist</image:title>
+      <image:caption>Mehdi M. Fallahi Portfolio and Profile Picture</image:caption>
     </image:image>
   </url>
 </urlset>
